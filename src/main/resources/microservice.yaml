@@ -1,6 +1,6 @@
 APPLICATION_ID: Husky
 service_description:
-  name: GradleServiceComb
+  name: GradleServiceCombProvider
   version: 1.0.0
   environment: development
 servicecomb:
